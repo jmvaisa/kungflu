@@ -1,6 +1,6 @@
 ## kungflu
 ```
-This is for a chrome extension to replace all instances of "coronavirus" with "kungflu"
+This is for a chrome extension to replace all instances of "coronavirus" with "kung flu"
 ```
 
 ## Install Instructions
